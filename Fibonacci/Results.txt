@@ -1,0 +1,19 @@
+Time taken to find the first 45 Fibonacci numbers 
+
+Method 1 (recursion) 		16.740s
+Method 2 (dynamic)  		0.000s
+Method 3 (spaceOpt)  		0.000s
+Method 4 (recPow)  		0.000s
+Method 5 (timeOpt)  		0.000s
+Method 6 (intelligent rec)  	0.000s
+
+Time taken to find first 20,000 Fibonacci numbers
+
+Method 1 (recursion) 		Very long
+Method 2 (dynamic)  		0.692s
+Method 3 (spaceOpt)  		0.916s
+Method 4 (recPow)  		2.628s
+Method 5 (timeOpt)  		0.028s
+Method 6 (intelligent rec)  	1.420s
+
+
